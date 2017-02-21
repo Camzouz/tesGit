@@ -10,7 +10,7 @@ Faire un commit:
 	si tous les fichiers à ajouter: git add .
 
 
--mise à jour de fichier existant:
+-mise à jour de fichier existant: git commit -a -m"patatipatata"
 
 
 -commit: git commit -m"commentaires que l'on veut"
